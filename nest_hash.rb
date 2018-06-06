@@ -10,7 +10,6 @@
 
 closet ["shoes"]["misc."] = ["cheetah slippers", "rainboots"]
 
-puts closet      
   
   
      
