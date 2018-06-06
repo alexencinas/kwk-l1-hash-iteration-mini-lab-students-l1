@@ -8,8 +8,9 @@
 # puts closet ["Tops"] << "tank top"
 # puts closet["Tops"].insert(2, "strapless shirt")
 
-    
-     
+closet ["shoes"]["misc."] = ["cheetah slippers", "rainboots"]
+
+puts closet      
   
   
      
